@@ -1,16 +1,26 @@
-### Hi there 👋
+## Hello my name is Johannes
 
-<!--
-**jdiemke/jdiemke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on a JavaScript based software 3d engine called [AISA](https://github.com/jdiemke/aisa)
+- 🌱 I’m currently learning 3D modelling with Blender
+- 💬 Ask me about realtime computer graphics
 
-Here are some ideas to get you started:
+#### My most popular Repositories
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- A Java based [Delaunay Triangulator](https://github.com/jdiemke/delaunay-triangulator)
+- A Software 3D Engine written in TypeScript called [AISA](https://github.com/jdiemke/aisa)
+
+#### You should play some of my HTML & JavaScript games :video_game:
+
+- My [Tetris](https://github.com/jdiemke/tetris) clone
+- My [Kwirk](https://github.com/jdiemke/kwirk) clone
+- My simple [first person shooter](https://jdiemke.github.io/pulsar/game.html) prototype
+- My [Mario Kart](https://jdiemke.github.io/aisa/mode-7.html) clone
+- My [Mario](https://github.com/jdiemke/platformer) clone
+
+#### Also quite interesting
+- [Signed distance field sphere tracing](https://github.com/jdiemke/webgl-sphere-tracing) using WebGL and TypeScript
+- A [tool](https://github.com/jdiemke/XPTS) for creating procedural textures using the operator stacking paradigm
+- [A WebGL 2.0 Playground](https://github.com/jdiemke/pulsar)
+- A [node-based procedural texture generation library](https://github.com/jdiemke/es6-texgen-lib) written in ECMAScript 6
+- A [software synthesizer](https://github.com/jdiemke/ts-softsynth) written in typescript
+
