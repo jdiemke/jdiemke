@@ -1,7 +1,7 @@
 ## Hello my name is Johannes
 
 - 🔭 I’m currently working on a JavaScript based software 3d engine called [AISA](https://github.com/jdiemke/aisa)
-- 🌱 I’m currently learning 3D modelling with Blender
+- 🌱 I’m currently learning 6502/6510 Assembly Language for NES/C64 development 
 - 💬 Ask me about realtime computer graphics
 
 #### My most popular Repository
